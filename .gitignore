@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Временные файлы
+*.log
+*.tmp
+
+# Файлы конфигурации
+appsettings.Development.json
